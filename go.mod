@@ -1,3 +1,3 @@
-module github.com/mgutz/freeport
+module github.com/roryq/freeport
 
 go 1.16
